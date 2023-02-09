@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+#site_header p {
+    font-style: italic;
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+}
+
+#site_header nav ul li a {
+    text-decoration: none;
+}
+
+
+#site_header nav ul li {
+    font-weight: bold;
+    font-size: 0.87rem;
+}
+
+#site_main article header h2{
+    font-size: 2rem;
+}
+
+.author{
+    font-style: italic;
+}
+
+.date{
+    font-size: smaller;
+}
+
+.article_body p {
+    line-height: 1.5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.article_body p a{
+    text-decoration: none;
+}
+
+#site_main article footer a{
+    text-align: right;
+    text-decoration: none;
+}
+
+#site_aside h3{
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+#site_footer p span{
+    font-weight: bold;
+}
